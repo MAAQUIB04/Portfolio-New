@@ -78,15 +78,15 @@ td {
   background-color: rgb(5,99,187,0.2);
   color: black;
 }
-#home{
-  padding-bottom: 30%;
-}
-#menu1{
+/* #home{
+  padding-bottom: %;
+} */
+/* #menu1{
   padding-bottom: 30%;
 }
 #menu2{
   padding-bottom: 30%;
-}
+} */
 .table-head{
   font-weight: bold;
 }
@@ -148,7 +148,7 @@ td {
   border: 2px var(--my-blue);
 }
 .counts {
-  padding: 70px 0 60px;
+  padding: 70px 0 6px;
 }
 
 .counts .count-box {
